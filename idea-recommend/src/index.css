@@ -1,0 +1,42 @@
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.card{
+  background-color: rgb(196, 196, 86); 
+  border-style: solid;
+  border-radius: 10px; 
+  width: 400px; 
+  margin: auto; 
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+button{
+  display: inline-block;
+  margin-top: 25px;
+  border-style: solid;
+  justify-content: center;
+  width:150px;
+  height: 25px; 
+  align-items: center;
+  background-color: white;
+}
+
+.others{
+  display: flex;
+  margin-top: 30px;
+  justify-content: center;
+  gap: 30px;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+#activity{
+  font-size: x-large;
+}
